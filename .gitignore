@@ -1,0 +1,7 @@
+[bB]uild
+.cache/
+.vscode/
+log*
+riscv-tests/
+mini-rv32ima/
+perf.data*
